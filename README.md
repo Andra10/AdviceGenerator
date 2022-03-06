@@ -1,2 +1,1 @@
-# Andra10.github.io
-Advice Generator App
+#Advice Generator App
